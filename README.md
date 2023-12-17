@@ -45,7 +45,9 @@ Also, it can handle the following hazards:
 7- Arithemtic Logic Unit (ALU)
 
 <p align="center">
- ![image](https://github.com/AlaaTaha32/ARM-Pipelined-Processor/assets/154026967/5453656b-e8f2-4536-9a6f-e592e04287ef)
+  <img width="460" height="300" src=![image](https://github.com/AlaaTaha32/ARM-Pipelined-Processor/assets/154026967/131f7db6-22ea-4df7-9f20-dde526b22686)
+>
+</p>
 
 
 
