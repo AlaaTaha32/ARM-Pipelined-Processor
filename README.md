@@ -44,10 +44,10 @@ Also, it can handle the following hazards:
 
 7- Arithemtic Logic Unit (ALU)
 
-<center>
-    <img src="![image](https://github.com/AlaaTaha32/ARM-Pipelined-Processor/assets/154026967/cb7eeebe-9eca-4c25-aa1a-b9b9b38c8079)
+<p align="center">
+  <img width="460" height="300" src="![image](https://github.com/AlaaTaha32/ARM-Pipelined-Processor/assets/154026967/1f42aa39-d6d2-4368-8e5c-e6fa22fa41a4)
 ">
-</center>
+</p>
 
 
 
