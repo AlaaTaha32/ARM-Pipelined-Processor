@@ -46,5 +46,8 @@ Also, it can handle the following hazards:
 
 ![image](https://github.com/AlaaTaha32/ARM-Pipelined-Processor/assets/154026967/16fc8710-309f-4c28-9552-6d26b58c6fa8)
 
+# Resources
+[1] S. Harris, “Chapter 7: Microarchitecture,” in Digital Design and Computer Architecture ARM® Edition, 2nd ed, D. Harris, Ed. 2013, pp. 386–456 
+
 
 
